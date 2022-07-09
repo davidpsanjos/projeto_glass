@@ -39,8 +39,8 @@ a:hover {
 
 header#cabecalho img#icone {
     position: absolute;
-    left: 780px;
-    top: 70px;
+    left: 1150px;
+    top: 50px;
     
 }
 
@@ -99,7 +99,7 @@ figure.foto-legenda:hover figcaption {
 }
 
 /* formatação do menu */
-nav#menu ul {
+nav#menu {
     display: block;
 }
 
@@ -108,7 +108,7 @@ nav#menu ul {
     text-transform: uppercase;
     position: absolute;
     top: -20px;
-    left: 200px;   
+    left: 760px;   
 }
 
 nav#menu li {
@@ -159,6 +159,9 @@ header#cabecalho-artigo h1 {
     margin-bottom: 0px;
     margin-top: 0px;
 }
+.direita {
+    text-align: right;
+}
 
 header#cabecalho-artigo h2 {
     font-size: 13pt;
@@ -170,9 +173,6 @@ header#cabecalho-artigo h2 {
 header#cabecalho-artigo h3 {
     font-size: 12pt;
     color: #606060;
-}
-.direita {
-    text-align: right;
 }
 
 table#tabelaspec {
